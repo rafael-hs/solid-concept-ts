@@ -7,5 +7,4 @@ export default class DOMEventHandler implements EventHandler {
             element.addEventListener(event, fn);
         }
     }
-
 }

@@ -1,0 +1,1 @@
+![alt text](./assert/SOLID-TS.png)
